@@ -1,0 +1,2 @@
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\Debug\BehaviorSystem.exe
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\Debug\BehaviorSystem.pdb

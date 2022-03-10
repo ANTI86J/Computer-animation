@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{d5e1d7c1-cd07-443a-a963-cf0c0c415cea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{b15dc30a-b2fd-40d6-9691-249a727ae00a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\behavior.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\config.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\creature.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mathlib.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\obstacle.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\simulation.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="src\vec.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\behavior.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\creature.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mathlib.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\obstacle.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\simulation.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="src\vec.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

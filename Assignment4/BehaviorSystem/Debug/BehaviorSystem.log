@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\main.cpp(36,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\main.cpp(47,48): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\main.cpp(47,34): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+  simulation.cpp
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(37,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(47,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(72,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(194,125): warning C4244: “参数”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(194,75): warning C4244: “参数”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(196,34): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\src\simulation.cpp(196,22): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+  BehaviorSystem.vcxproj -> D:\Projects\PartTimeWork\BehaviorSystem\BehaviorSystem\Debug\BehaviorSystem.exe
